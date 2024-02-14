@@ -44,7 +44,6 @@ Handle any exceptions that may occur during the comment generation process.
 #### Troubleshooting
 If you encounter any issues with the service, such as errors during comment generation or connectivity problems with the OpenAI API, please follow these steps:
 
-Check your internet connection to ensure it's stable.
 Verify that the OpenAI API key is correct and properly configured.
 If the issue persists, consider contacting OpenAI support for assistance.
 
